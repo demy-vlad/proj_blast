@@ -1,0 +1,239 @@
+RID: CH49FZYV013	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1:  Query ID: lcl|Query_56281 Length: 179
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Candida albicans strain TIMM 1768 chromosome 7, complete sequence Candida albi... NA              5476       325    325   100%  5e-85 100.00 1221613    CP032014.1       
+Candida albicans strain SC5314-P0 chromosome 7B                   Candida albi... NA              5476       325    325   100%  5e-85 100.00 949291     CP025164.1       
+Candida albicans strain SC5314-P0 chromosome 7A                   Candida albi... NA              5476       325    325   100%  5e-85 100.00 949203     CP025156.1       
+Candida albicans strain SC5314-GTH12 chromosome 7B                Candida albi... NA              5476       325    325   100%  5e-85 100.00 949045     CP025181.1       
+Candida albicans strain SC5314-GTH12 chromosome 7A                Candida albi... NA              5476       325    325   100%  5e-85 100.00 948952     CP025173.1       
+Candida albicans SC5314 U6 snRNA complex subunit...               Candida albi... NA              237561     325    325   100%  5e-85 100.00 393        XM_019475491.1   
+Candida albicans SC5314 chromosome 7 sequence                     Candida albi... NA              237561     325    325   100%  5e-85 100.00 949511     CP017629.1       
+Candida albicans genomic DNA, chromosome 7, complete sequence     Candida albi... NA              5476       325    325   100%  5e-85 100.00 949626     AP006852.1       
+Candida tropicalis strain MYA-3404 chromosome 6                   Candida trop... NA              5482       208    208   100%  1e-49 85.56  927416     CP047874.1       
+Candida tropicalis MYA-3404 conserved hypothetical protein...     Candida trop... NA              294747     208    208   100%  1e-49 85.56  291        XM_002550660.1   
+
+
+Alignments:
+>Candida albicans strain TIMM 1768 chromosome 7, complete sequence
+Sequence ID: CP032014.1 Length: 1221613 
+Range 1: 540984 to 541163
+
+Score:325 bits(360), Expect:5e-85, 
+Identities:180/180(100%),  Gaps:0/180(0%), Strand: Plus/Plus
+
+Query  1       ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540984  ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  541043
+
+Query  61      ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  541044  ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  541103
+
+Query  121     ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  541104  ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  541163
+
+
+
+>Candida albicans strain SC5314-P0 chromosome 7B
+Sequence ID: CP025164.1 Length: 949291 
+Range 1: 540416 to 540595
+
+Score:325 bits(360), Expect:5e-85, 
+Identities:180/180(100%),  Gaps:0/180(0%), Strand: Plus/Plus
+
+Query  1       ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540416  ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  540475
+
+Query  61      ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540476  ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  540535
+
+Query  121     ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540536  ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  540595
+
+
+
+>Candida albicans strain SC5314-P0 chromosome 7A
+Sequence ID: CP025156.1 Length: 949203 
+Range 1: 540518 to 540697
+
+Score:325 bits(360), Expect:5e-85, 
+Identities:180/180(100%),  Gaps:0/180(0%), Strand: Plus/Plus
+
+Query  1       ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540518  ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  540577
+
+Query  61      ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540578  ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  540637
+
+Query  121     ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540638  ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  540697
+
+
+
+>Candida albicans strain SC5314-GTH12 chromosome 7B
+Sequence ID: CP025181.1 Length: 949045 
+Range 1: 540281 to 540460
+
+Score:325 bits(360), Expect:5e-85, 
+Identities:180/180(100%),  Gaps:0/180(0%), Strand: Plus/Plus
+
+Query  1       ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540281  ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  540340
+
+Query  61      ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540341  ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  540400
+
+Query  121     ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540401  ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  540460
+
+
+
+>Candida albicans strain SC5314-GTH12 chromosome 7A
+Sequence ID: CP025173.1 Length: 948952 
+Range 1: 540414 to 540593
+
+Score:325 bits(360), Expect:5e-85, 
+Identities:180/180(100%),  Gaps:0/180(0%), Strand: Plus/Plus
+
+Query  1       ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540414  ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  540473
+
+Query  61      ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540474  ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  540533
+
+Query  121     ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540534  ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  540593
+
+
+
+>Candida albicans SC5314 U6 snRNA complex subunit (CAALFM_C702510WA), partial mRNA
+Sequence ID: XM_019475491.1 Length: 393 
+Range 1: 106 to 285
+
+Score:325 bits(360), Expect:5e-85, 
+Identities:180/180(100%),  Gaps:0/180(0%), Strand: Plus/Plus
+
+Query  1    ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  106  ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  165
+
+Query  61   ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  166  ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  225
+
+Query  121  ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  180
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  226  ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  285
+
+
+
+>Candida albicans SC5314 chromosome 7 sequence
+Sequence ID: CP017629.1 Length: 949511 
+Range 1: 540624 to 540803
+
+Score:325 bits(360), Expect:5e-85, 
+Identities:180/180(100%),  Gaps:0/180(0%), Strand: Plus/Plus
+
+Query  1       ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540624  ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  540683
+
+Query  61      ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540684  ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  540743
+
+Query  121     ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540744  ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  540803
+
+
+
+>Candida albicans genomic DNA, chromosome 7, complete sequence
+Sequence ID: AP006852.1 Length: 949626 
+Range 1: 540642 to 540821
+
+Score:325 bits(360), Expect:5e-85, 
+Identities:180/180(100%),  Gaps:0/180(0%), Strand: Plus/Plus
+
+Query  1       ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540642  ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  540701
+
+Query  61      ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  120
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540702  ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  540761
+
+Query  121     ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  180
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540762  ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  540821
+
+
+
+>Candida tropicalis strain MYA-3404 chromosome 6
+Sequence ID: CP047874.1 Length: 927416 
+Range 1: 538594 to 538773
+
+Score:208 bits(230), Expect:1e-49, 
+Identities:154/180(86%),  Gaps:0/180(0%), Strand: Plus/Minus
+
+Query  1       ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  60
+               |||||| |||| ||||||||||| ||||||||  ||||    |||||  |||| |  |||
+Sbjct  538773  ATGAATCTAACATTACATAATGTGATACAAACAAATTCAAATGGTGATGAATTCACTAAA  538714
+
+Query  61      ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  120
+               || |||||||| |||||||| || || ||||||||||||||| | |||||||||||||||
+Sbjct  538713  ATACCCGAAATTTATATTCGAGGAATGCATATTAAATATTTACGTATTCCTGATGATATT  538654
+
+Query  121     ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  180
+               |||  |||||| |||||||||||||||||||||||||||||||||||| |||| ||||||
+Sbjct  538653  ATGTCATATGCTAAAGAACAAAGTATGATAAATATGGAAAATAGAAATAGATATCAAAAA  538594
+
+
+
+>Candida tropicalis MYA-3404 conserved hypothetical protein (CTRG_05004), partial mRNA
+Sequence ID: XM_002550660.1 Length: 291 
+Range 1: 1 to 180
+
+Score:208 bits(230), Expect:1e-49, 
+Identities:154/180(86%),  Gaps:0/180(0%), Strand: Plus/Plus
+
+Query  1    ATGAATTTAACCTTACATAATGTTATACAAACCGATTCCCGAGGTGAGAAATTTATGAAA  60
+            |||||| |||| ||||||||||| ||||||||  ||||    |||||  |||| |  |||
+Sbjct  1    ATGAATCTAACATTACATAATGTGATACAAACAAATTCAAATGGTGATGAATTCACTAAA  60
+
+Query  61   ATTCCCGAAATATATATTCGTGGTATACATATTAAATATTTAAGAATTCCTGATGATATT  120
+            || |||||||| |||||||| || || ||||||||||||||| | |||||||||||||||
+Sbjct  61   ATACCCGAAATTTATATTCGAGGAATGCATATTAAATATTTACGTATTCCTGATGATATT  120
+
+Query  121  ATGGGATATGCAAAAGAACAAAGTATGATAAATATGGAAAATAGAAATCGATACCAAAAA  180
+            |||  |||||| |||||||||||||||||||||||||||||||||||| |||| ||||||
+Sbjct  121  ATGTCATATGCTAAAGAACAAAGTATGATAAATATGGAAAATAGAAATAGATATCAAAAA  180
+
+
+
+
+
+
+
+		
+
+

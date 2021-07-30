@@ -1,0 +1,207 @@
+RID: C4TTPWYP016	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1:  Query ID: lcl|Query_41917 Length: 24
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Celastrina argiolus genome assembly, chromosome: 6                Celastrina a... holly blue      203782     44.6   44.6  96%   0.052 100.00 24035095   LR994582.1       
+Blastobasis lacticolella genome assembly, chromosome: 27          Blastobasis ... NA              2561016    42.8   42.8  92%   0.18  100.00 12625560   LR990066.1       
+Coccinella septempunctata genome assembly, chromosome: 8          Coccinella s... seven-spotte... 41139      41.9   81.9  100%  0.64  96.00  33488718   OU015580.1       
+Coccinella septempunctata genome assembly, chromosome: 7          Coccinella s... seven-spotte... 41139      41.9   41.9  100%  0.64  96.00  34009066   OU015579.1       
+Coccinella septempunctata genome assembly, chromosome: 3          Coccinella s... seven-spotte... 41139      41.9   80.1  100%  0.64  96.00  43944265   OU015575.1       
+Coccinella septempunctata genome assembly, chromosome: 2          Coccinella s... seven-spotte... 41139      41.9   121   100%  0.64  96.00  54650663   OU015574.1       
+Hedya salicella genome assembly, chromosome: 2                    Hedya salicella NA              1869985    41.9   41.9  100%  0.64  96.00  45122075   FR990098.1       
+Anthocharis cardamines genome assembly, chromosome: 24            Anthocharis ... orange tip      227532     41.9   41.9  100%  0.64  96.00  8766567    FR989974.1       
+Spilosoma lubricipeda genome assembly, chromosome: 23             Spilosoma lu... NA              875880     41.9   41.9  100%  0.64  96.00  14907724   HG992297.1       
+Spilosoma lubricipeda genome assembly, chromosome: 19             Spilosoma lu... NA              875880     41.9   41.9  100%  0.64  96.00  17770800   HG992293.1       
+
+
+Alignments:
+>Celastrina argiolus genome assembly, chromosome: 6
+Sequence ID: LR994582.1 Length: 24035095 
+Range 1: 8001179 to 8001202
+
+Score:44.6 bits(48), Expect:0.052, 
+Identities:24/24(100%),  Gaps:0/24(0%), Strand: Plus/Plus
+
+Query  1        ttttttttttAAATGCCCATAGTT  24
+                ||||||||||||||||||||||||
+Sbjct  8001179  TTTTTTTTTTAAATGCCCATAGTT  8001202
+
+
+
+>Blastobasis lacticolella genome assembly, chromosome: 27
+Sequence ID: LR990066.1 Length: 12625560 
+Range 1: 6886902 to 6886924
+
+Score:42.8 bits(46), Expect:0.18, 
+Identities:23/23(100%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  3        ttttttttAAATGCCCATAGTTT  25
+                |||||||||||||||||||||||
+Sbjct  6886902  TTTTTTTTAAATGCCCATAGTTT  6886924
+
+
+
+>Coccinella septempunctata genome assembly, chromosome: 8
+Sequence ID: OU015580.1 Length: 33488718 
+Range 1: 18874593 to 18874617
+
+Score:41.9 bits(45), Expect:0.64, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Minus
+
+Query  1         ttttttttttAAATGCCCATAGTTT  25
+                 ||||||||||||||||||||| |||
+Sbjct  18874617  TTTTTTTTTTAAATGCCCATAATTT  18874593
+
+
+
+
+Range 2: 18875511 to 18875534
+
+Score:40.1 bits(43), Expect:2.2, 
+Identities:23/24(96%),  Gaps:0/24(0%), Strand: Plus/Plus
+
+Query  2         tttttttttAAATGCCCATAGTTT  25
+                 |||||||||||||||||||| |||
+Sbjct  18875511  TTTTTTTTTAAATGCCCATAATTT  18875534
+
+
+
+>Coccinella septempunctata genome assembly, chromosome: 7
+Sequence ID: OU015579.1 Length: 34009066 
+Range 1: 15993448 to 15993472
+
+Score:41.9 bits(45), Expect:0.64, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Minus
+
+Query  1         ttttttttttAAATGCCCATAGTTT  25
+                 ||||||||||||||||||||| |||
+Sbjct  15993472  TTTTTTTTTTAAATGCCCATAATTT  15993448
+
+
+
+>Coccinella septempunctata genome assembly, chromosome: 3
+Sequence ID: OU015575.1 Length: 43944265 
+Range 1: 40764730 to 40764754
+
+Score:41.9 bits(45), Expect:0.64, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Minus
+
+Query  1         ttttttttttAAATGCCCATAGTTT  25
+                 ||||||||||||||||||||| |||
+Sbjct  40764754  TTTTTTTTTTAAATGCCCATAATTT  40764730
+
+
+
+
+Range 2: 5511478 to 5511500
+
+Score:38.3 bits(41), Expect:7.7, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  3        ttttttttAAATGCCCATAGTTT  25
+                ||||||||||||||||||| |||
+Sbjct  5511500  TTTTTTTTAAATGCCCATAATTT  5511478
+
+
+
+>Coccinella septempunctata genome assembly, chromosome: 2
+Sequence ID: OU015574.1 Length: 54650663 
+Range 1: 5407344 to 5407368
+
+Score:41.9 bits(45), Expect:0.64, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1        ttttttttttAAATGCCCATAGTTT  25
+                ||||||||||||||||||||| |||
+Sbjct  5407344  TTTTTTTTTTAAATGCCCATAATTT  5407368
+
+
+
+
+Range 2: 7114601 to 7114625
+
+Score:41.9 bits(45), Expect:0.64, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1        ttttttttttAAATGCCCATAGTTT  25
+                ||||||||||||||||||||| |||
+Sbjct  7114601  TTTTTTTTTTAAATGCCCATAATTT  7114625
+
+
+
+
+Range 3: 7114210 to 7114232
+
+Score:38.3 bits(41), Expect:7.7, 
+Identities:22/23(96%),  Gaps:0/23(0%), Strand: Plus/Minus
+
+Query  3        ttttttttAAATGCCCATAGTTT  25
+                ||||||||||||||||||| |||
+Sbjct  7114232  TTTTTTTTAAATGCCCATAATTT  7114210
+
+
+
+>Hedya salicella genome assembly, chromosome: 2
+Sequence ID: FR990098.1 Length: 45122075 
+Range 1: 41290212 to 41290236
+
+Score:41.9 bits(45), Expect:0.64, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1         ttttttttttAAATGCCCATAGTTT  25
+                 |||||||||||||||||||||| ||
+Sbjct  41290212  TTTTTTTTTTAAATGCCCATAGCTT  41290236
+
+
+
+>Anthocharis cardamines genome assembly, chromosome: 24
+Sequence ID: FR989974.1 Length: 8766567 
+Range 1: 7877043 to 7877067
+
+Score:41.9 bits(45), Expect:0.64, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1        ttttttttttAAATGCCCATAGTTT  25
+                ||||||||||||||||||||| |||
+Sbjct  7877043  TTTTTTTTTTAAATGCCCATACTTT  7877067
+
+
+
+>Spilosoma lubricipeda genome assembly, chromosome: 23
+Sequence ID: HG992297.1 Length: 14907724 
+Range 1: 6021310 to 6021334
+
+Score:41.9 bits(45), Expect:0.64, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Minus
+
+Query  1        ttttttttttAAATGCCCATAGTTT  25
+                ||||||||||||||||||||| |||
+Sbjct  6021334  TTTTTTTTTTAAATGCCCATAATTT  6021310
+
+
+
+>Spilosoma lubricipeda genome assembly, chromosome: 19
+Sequence ID: HG992293.1 Length: 17770800 
+Range 1: 7641714 to 7641738
+
+Score:41.9 bits(45), Expect:0.64, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Minus
+
+Query  1        ttttttttttAAATGCCCATAGTTT  25
+                ||||||||||||||||||||| |||
+Sbjct  7641738  TTTTTTTTTTAAATGCCCATAATTT  7641714
+
+
+
+
+
+
+
+		
+
+
